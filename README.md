@@ -12,9 +12,9 @@ Di hari pertama, guru memperkenalkan bab-bab yang akan kita pelajari, serta krit
 Proses tersebut terjadi di kehidupan kita sehari-hari.
 
 3) Tipe data analysis:
-- Descriptive Analysis (meneliti dan mempresentasikan hasil data secara rinci).
-- Diagnostic Analysis (meneliti hasil dari data, contoh: "Kenapa masyarakat lebih suka dengan laptop daripada komputer?").
-- Predictive Analysis (meneliti penyebab yang akan terjadi kedepannya dari data, contoh: "Dengan perkembangan AI, apa dampak jangka panjang terhadap society?").
-- Prescriptive Analysis (mencari solusi dari data, contoh: "Kuliah sulit! Apa yang harus dilakukan untuk mempermudah kamu?").
+- Descriptive Analysis (meneliti dan mempresentasikan hasil data secara rinci, bergantung pada data historis).
+- Diagnostic Analysis (meneliti penyebab dari data, contoh: "Kenapa masyarakat lebih suka dengan laptop daripada komputer?").
+- Predictive Analysis (meneliti penyebab yang akan terjadi kedepannya dari data, bergatung pada real-time/past data, contoh: "Dengan berkembangnya AI, apa dampak jangka panjang terhadap society?").
+- Prescriptive Analysis (menganalisa data dari Descriptive Analysis dan Predictive Analysis untuk menghasilkan manfaat yang besar, contoh: "Kuliah sulit! Apa yang harus dilakukan untuk mempermudah kamu?").
 
 Begitulah hasil "analisis" saya pada "data" (pertemuan 1) ini.
