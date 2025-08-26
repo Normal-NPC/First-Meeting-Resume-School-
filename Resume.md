@@ -1,49 +1,28 @@
-# 📊 Catatan Pertemuan Pertama: Pengantar Analisis Data
+# First-Meeting-Resume(School)
 
-Ringkasan singkat dari sesi perkenalan mengenai dasar-dasar Analisis Data.
-
----
-
-## 🎯 Sesi Perkenalan
-
-Pada pertemuan pertama, dosen memperkenalkan silabus pembelajaran serta kriteria penilaian yang terdiri dari `Exams`, `Quiz`, dan `Project`.
-
-## 🚀 Topik Utama: Data Analytics Essentials
-
-Materi utama yang dibahas adalah pengenalan mendasar mengenai dunia analisis data. Berikut adalah poin-poin penting yang saya pelajari:
-
-### 1. Apa itu Data?
-Secara mendasar, **Data** adalah kumpulan fakta mentah. Diskusi di kelas juga mengeksplorasi berbagai contoh data yang kita temui setiap hari.
-
-### 2. Bagaimana Proses Analisis Data?
-Proses analisis data adalah sebuah siklus yang terjadi secara berulang, bahkan dalam kehidupan sehari-hari. Tahapannya adalah sebagai berikut:
-
-1.  **Gathering Data** (Pengumpulan Data)
-2.  **Preparing Data** (Persiapan Data)
-3.  **Analyzing and Mining Data** (Analisis dan Penambangan Data)
-4.  **Interpreting Results** (Interpretasi Hasil)
-5.  **Presenting Findings** (Presentasi Temuan)
-6.  **Understanding & Solving Problems** (Pemahaman & Solusi Masalah)
-
-### 3. Apa Saja Tipe-Tipe Analisis Data?
-Ada empat tipe utama dalam analisis data, masing-masing menjawab pertanyaan yang berbeda:
-
-#### 📈 Descriptive Analysis
-> Menganalisis data historis untuk menjawab pertanyaan: **"Apa yang telah terjadi?"**
-> * **Contoh**: "Berapa total penjualan produk A bulan lalu?"
-
-#### 🔍 Diagnostic Analysis
-> Fokus pada penyebab suatu peristiwa untuk menjawab pertanyaan: **"Mengapa ini terjadi?"**
-> * **Contoh**: "Kenapa masyarakat lebih memilih laptop daripada komputer desktop?"
-
-#### 🔮 Predictive Analysis
-> Menggunakan data historis dan saat ini untuk memprediksi masa depan, menjawab pertanyaan: **"Apa yang mungkin akan terjadi?"**
-> * **Contoh**: "Dengan berkembangnya AI, apa dampak jangka panjangnya terhadap masyarakat?"
-
-#### ✅ Prescriptive Analysis
-> Memberikan rekomendasi tindakan terbaik berdasarkan hasil analisis deskriptif dan prediktif, untuk menjawab pertanyaan: **"Apa yang harus kita lakukan?"**
-> * **Contoh**: "Biaya kuliah semakin mahal. Apa strategi terbaik yang harus dilakukan mahasiswa untuk mengatasinya?"
+Di hari pertama, guru memperkenalkan bab-bab yang akan kita pelajari, serta kriteria & persentase nilai dari `exams`, `quiz`, dan `project`. Setelah itu, guru mengajarkan saya tentang **"Data Analytics Essentials"**. Saya mempelajari beberapa hal, di antaranya:
 
 ---
 
-> Begitulah hasil **"analisis"** saya pada **"data"** dari pertemuan pertama ini.
+### 1. Pengertian Data
+Pengertian data secara umum dan contoh-contoh yang disebutkan oleh mahasiswa lain.
+
+### 2. Proses Data Analysis
+* Understanding the results & solve any problems present
+* Gathering data
+* Preparing data
+* Analyzing and mining data
+* Interpreting results
+* Presenting findings
+
+> Proses tersebut terjadi di kehidupan kita sehari-hari.
+
+### 3. Tipe Data Analysis
+* **Descriptive Analysis** (meneliti dan mempresentasikan hasil data secara rinci, bergantung pada data historis).
+* **Diagnostic Analysis** (meneliti penyebab dari data, contoh: "Kenapa masyarakat lebih suka dengan laptop daripada komputer?").
+* **Predictive Analysis** (meneliti penyebab yang akan terjadi kedepannya dari data, bergatung pada real-time/past data, contoh: "Dengan berkembangnya AI, apa dampak jangka panjang terhadap society?").
+* **Prescriptive Analysis** (menganalisa data dari Descriptive Analysis dan Predictive Analysis untuk menghasilkan manfaat yang besar, contoh: "Kuliah sulit! Apa yang harus dilakukan untuk mempermudah kamu?").
+
+---
+
+> Begitulah hasil "analisis" saya pada "data" (pertemuan 1) ini.
