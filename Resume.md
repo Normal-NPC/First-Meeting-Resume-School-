@@ -46,4 +46,4 @@ Ada empat tipe utama dalam analisis data, masing-masing menjawab pertanyaan yang
 
 ---
 
-> Begitulah hasil **"analisis"** saya pada **"data"** dari pertemuan pertama ini.
+Begitulah hasil **"analisis"** saya pada **"data"** dari pertemuan pertama ini.
